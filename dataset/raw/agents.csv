@@ -1,0 +1,101 @@
+agent_id,agent_type,capability,location_x,location_y,status,battery_level
+A1,robot,carry,43.99,1.55,busy,86
+A2,human team,carry,95.06,71.34,available,77
+A3,robot,carry,4.15,45.45,available,31
+A4,robot,digging,18.33,25.47,busy,61
+A5,human team,medical,34.87,81.81,busy,79
+A6,drone,digging,16.19,63.92,busy,34
+A7,human team,digging,74.29,45.05,available,68
+A8,drone,medical,46.01,10.17,available,76
+A9,drone,digging,56.27,55.51,busy,55
+A10,robot,digging,69.02,74.85,available,69
+A11,human team,medical,12.03,62.19,busy,32
+A12,drone,medical,36.52,67.93,available,42
+A13,drone,medical,46.82,1.49,busy,99
+A14,drone,carry,20.52,73.25,available,56
+A15,human team,carry,67.31,53.82,available,89
+A16,drone,digging,90.29,44.58,busy,50
+A17,drone,medical,91.82,23.03,busy,67
+A18,human team,medical,37.47,18.33,available,46
+A19,robot,medical,80.0,19.28,busy,54
+A20,human team,digging,46.69,39.52,busy,85
+A21,human team,carry,70.77,41.36,busy,82
+A22,human team,carry,99.05,54.99,busy,41
+A23,robot,digging,33.74,34.94,available,64
+A24,robot,carry,13.62,77.86,available,42
+A25,robot,carry,28.67,29.83,available,69
+A26,human team,digging,40.26,77.85,busy,54
+A27,drone,digging,32.63,54.13,busy,53
+A28,drone,medical,68.56,57.77,busy,34
+A29,human team,digging,99.31,32.2,available,73
+A30,drone,digging,52.7,51.95,available,59
+A31,robot,digging,44.66,4.67,available,86
+A32,robot,carry,32.83,56.87,available,77
+A33,human team,medical,55.46,98.87,busy,85
+A34,drone,medical,96.76,52.16,available,81
+A35,drone,digging,95.89,97.11,available,48
+A36,drone,medical,57.8,22.83,available,66
+A37,drone,medical,70.47,72.45,busy,54
+A38,drone,digging,78.23,41.2,busy,34
+A39,robot,digging,90.36,12.65,busy,95
+A40,human team,digging,47.2,50.39,busy,31
+A41,human team,medical,79.04,11.28,available,80
+A42,drone,medical,34.02,25.84,busy,60
+A43,human team,medical,10.43,98.73,available,79
+A44,human team,digging,89.14,86.46,available,96
+A45,robot,digging,82.7,70.96,available,100
+A46,drone,medical,86.16,62.79,busy,65
+A47,human team,digging,15.82,45.16,busy,98
+A48,human team,medical,32.51,70.42,busy,39
+A49,robot,carry,94.2,66.56,busy,32
+A50,human team,digging,47.98,93.17,busy,81
+A51,drone,medical,39.7,8.34,available,64
+A52,robot,carry,91.61,95.58,available,74
+A53,drone,digging,96.0,84.3,available,46
+A54,drone,carry,94.39,76.32,busy,96
+A55,drone,medical,34.52,77.95,busy,65
+A56,robot,carry,29.33,83.99,busy,37
+A57,drone,medical,69.66,29.2,busy,31
+A58,robot,digging,6.51,77.93,busy,87
+A59,drone,carry,81.39,1.02,available,59
+A60,drone,carry,50.55,31.56,available,86
+A61,drone,medical,80.25,22.13,available,88
+A62,robot,medical,11.94,57.57,available,80
+A63,robot,digging,75.62,60.72,available,63
+A64,robot,medical,61.32,84.64,available,36
+A65,drone,digging,65.77,62.75,available,73
+A66,drone,medical,26.91,9.72,busy,99
+A67,drone,carry,80.73,82.53,available,53
+A68,human team,carry,12.75,94.38,busy,97
+A69,robot,carry,23.42,68.23,busy,70
+A70,drone,digging,26.43,97.99,busy,32
+A71,drone,digging,3.06,41.83,busy,30
+A72,robot,medical,60.71,58.78,busy,92
+A73,drone,digging,49.84,17.02,busy,65
+A74,drone,digging,60.38,69.94,available,40
+A75,drone,carry,37.47,30.74,available,81
+A76,robot,digging,31.54,15.24,available,32
+A77,human team,medical,72.41,68.51,busy,80
+A78,drone,carry,73.79,19.77,available,50
+A79,drone,medical,61.93,1.06,busy,49
+A80,human team,medical,92.42,94.57,busy,42
+A81,human team,medical,4.75,65.53,busy,86
+A82,robot,medical,85.98,15.84,available,60
+A83,human team,digging,69.53,63.92,busy,38
+A84,drone,medical,6.7,90.85,available,39
+A85,human team,carry,40.73,67.48,busy,44
+A86,drone,carry,55.65,14.78,available,43
+A87,drone,medical,46.06,92.34,busy,79
+A88,human team,digging,47.87,41.4,busy,77
+A89,human team,digging,78.83,35.62,available,91
+A90,drone,digging,41.23,11.74,busy,80
+A91,robot,digging,47.59,25.03,available,98
+A92,drone,medical,48.44,14.71,busy,69
+A93,robot,medical,53.13,13.1,busy,95
+A94,drone,carry,76.44,59.58,available,57
+A95,robot,carry,51.99,94.43,busy,70
+A96,robot,medical,50.27,82.88,available,82
+A97,robot,carry,6.4,80.29,busy,31
+A98,human team,medical,78.28,61.2,busy,100
+A99,robot,digging,35.31,84.16,available,99
+A100,robot,digging,66.73,83.79,available,67

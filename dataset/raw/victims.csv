@@ -1,0 +1,501 @@
+victim_id,location_x,location_y,injury_type,mobility,age,gender,trapped,bleeding_level,consciousness_level
+V1,63.61,28.02,minor cut,immobile,55,other,True,severe,alert
+V2,86.08,71.81,fracture,immobile,9,female,True,none,confused
+V3,44.93,4.45,head trauma,semi-mobile,57,female,False,moderate,confused
+V4,55.08,3.05,internal bleeding,mobile,16,other,False,moderate,unconscious
+V5,84.33,28.3,burn,semi-mobile,83,other,False,severe,alert
+V6,56.02,33.99,burn,semi-mobile,11,other,True,low,alert
+V7,65.21,43.45,burn,mobile,10,other,False,low,unconscious
+V8,30.08,33.72,internal bleeding,mobile,67,other,False,moderate,confused
+V9,95.32,69.87,minor cut,immobile,57,female,False,none,confused
+V10,72.47,7.76,fracture,semi-mobile,16,male,False,moderate,alert
+V11,48.14,91.85,head trauma,mobile,52,other,True,severe,alert
+V12,21.87,48.83,head trauma,immobile,6,female,False,moderate,unconscious
+V13,64.3,24.55,internal bleeding,semi-mobile,7,other,False,moderate,confused
+V14,3.25,88.49,fracture,mobile,66,other,False,none,confused
+V15,94.0,63.94,burn,semi-mobile,73,other,True,low,confused
+V16,12.79,65.16,head trauma,immobile,77,other,False,low,unconscious
+V17,89.55,40.25,burn,immobile,36,other,True,none,unconscious
+V18,25.59,98.56,head trauma,immobile,34,other,True,low,alert
+V19,67.18,21.44,burn,mobile,63,female,True,low,alert
+V20,74.77,47.82,internal bleeding,semi-mobile,24,male,False,moderate,alert
+V21,2.02,91.16,head trauma,mobile,76,female,True,severe,confused
+V22,64.6,40.86,internal bleeding,immobile,36,male,True,moderate,unconscious
+V23,63.99,77.1,burn,mobile,77,other,True,none,confused
+V24,19.08,75.49,fracture,semi-mobile,45,other,True,severe,unconscious
+V25,36.95,79.37,head trauma,immobile,61,other,False,severe,alert
+V26,16.52,32.75,minor cut,semi-mobile,21,female,True,severe,confused
+V27,89.1,38.21,internal bleeding,immobile,16,male,True,moderate,alert
+V28,13.42,65.28,internal bleeding,semi-mobile,64,male,True,moderate,alert
+V29,36.23,56.39,head trauma,semi-mobile,40,male,False,moderate,alert
+V30,77.29,32.92,internal bleeding,mobile,64,female,False,severe,confused
+V31,62.28,4.32,fracture,mobile,15,male,False,low,alert
+V32,98.75,80.48,fracture,mobile,19,male,False,moderate,alert
+V33,40.42,21.07,minor cut,mobile,53,male,True,moderate,confused
+V34,21.43,78.15,head trauma,semi-mobile,33,male,True,moderate,confused
+V35,99.33,53.84,burn,immobile,38,other,False,low,confused
+V36,31.15,25.06,internal bleeding,mobile,5,male,False,moderate,alert
+V37,20.48,98.07,burn,mobile,30,other,False,moderate,alert
+V38,82.17,80.57,internal bleeding,immobile,58,female,False,severe,alert
+V39,45.98,93.12,minor cut,semi-mobile,32,female,True,none,alert
+V40,46.94,41.52,minor cut,immobile,83,male,True,moderate,confused
+V41,87.35,1.15,fracture,mobile,51,other,True,low,alert
+V42,2.66,38.66,internal bleeding,semi-mobile,12,female,True,moderate,unconscious
+V43,97.97,89.96,internal bleeding,immobile,77,other,True,moderate,alert
+V44,16.71,90.69,minor cut,semi-mobile,5,male,True,moderate,confused
+V45,90.09,69.16,burn,semi-mobile,31,female,True,moderate,confused
+V46,88.19,26.38,minor cut,mobile,26,other,True,severe,alert
+V47,58.44,50.99,internal bleeding,semi-mobile,65,other,True,severe,alert
+V48,88.04,43.08,head trauma,semi-mobile,31,female,False,moderate,alert
+V49,14.7,38.66,internal bleeding,mobile,79,male,True,none,alert
+V50,42.84,86.42,burn,immobile,69,other,False,severe,confused
+V51,71.75,19.47,burn,semi-mobile,11,female,False,low,confused
+V52,66.08,81.92,burn,immobile,58,female,False,moderate,alert
+V53,5.53,63.08,minor cut,immobile,69,other,False,none,confused
+V54,67.43,9.66,fracture,immobile,79,female,False,severe,alert
+V55,44.52,95.21,minor cut,mobile,48,male,True,low,alert
+V56,92.12,39.05,internal bleeding,semi-mobile,11,male,False,severe,confused
+V57,4.59,49.84,burn,immobile,51,female,True,severe,alert
+V58,24.24,93.51,minor cut,immobile,85,female,False,severe,confused
+V59,25.49,20.44,head trauma,semi-mobile,66,female,True,moderate,confused
+V60,25.29,60.68,fracture,semi-mobile,61,male,False,moderate,confused
+V61,94.42,40.45,fracture,immobile,10,other,False,severe,confused
+V62,26.26,35.44,fracture,immobile,69,male,False,severe,alert
+V63,1.64,94.25,minor cut,mobile,5,male,False,moderate,unconscious
+V64,60.92,34.46,head trauma,semi-mobile,17,male,True,moderate,alert
+V65,66.67,88.84,head trauma,immobile,60,male,True,low,unconscious
+V66,3.44,23.32,head trauma,immobile,85,other,False,moderate,alert
+V67,63.81,49.25,burn,semi-mobile,57,male,True,severe,confused
+V68,7.17,25.98,burn,semi-mobile,28,female,False,moderate,unconscious
+V69,42.92,17.88,burn,semi-mobile,38,female,True,low,unconscious
+V70,62.1,87.08,head trauma,immobile,60,other,True,moderate,alert
+V71,73.02,61.4,fracture,immobile,39,male,False,severe,alert
+V72,42.31,77.07,burn,immobile,10,female,False,severe,alert
+V73,4.15,61.66,fracture,mobile,44,other,True,severe,confused
+V74,74.45,96.25,internal bleeding,semi-mobile,21,male,False,moderate,confused
+V75,16.36,36.34,fracture,immobile,48,other,False,moderate,confused
+V76,79.59,53.31,fracture,mobile,11,female,True,moderate,alert
+V77,25.51,11.87,fracture,mobile,56,other,True,moderate,alert
+V78,99.2,59.97,head trauma,semi-mobile,5,male,True,none,alert
+V79,90.42,59.05,burn,immobile,20,female,False,none,alert
+V80,94.36,86.34,head trauma,immobile,18,male,True,moderate,confused
+V81,38.92,16.65,internal bleeding,semi-mobile,53,female,True,severe,alert
+V82,58.48,52.78,internal bleeding,immobile,30,other,False,severe,alert
+V83,90.67,66.38,burn,immobile,10,female,True,moderate,alert
+V84,67.9,47.78,burn,semi-mobile,5,female,True,severe,confused
+V85,35.28,91.36,burn,mobile,49,other,True,moderate,alert
+V86,92.12,88.78,minor cut,mobile,18,other,False,moderate,confused
+V87,13.61,11.13,head trauma,mobile,18,other,True,severe,alert
+V88,54.18,53.85,minor cut,mobile,77,other,True,none,alert
+V89,98.82,62.22,burn,semi-mobile,57,female,True,severe,alert
+V90,96.5,58.08,minor cut,semi-mobile,84,other,False,severe,unconscious
+V91,12.0,25.5,minor cut,immobile,24,male,True,severe,confused
+V92,71.76,88.52,burn,mobile,6,male,True,moderate,unconscious
+V93,27.96,31.74,minor cut,semi-mobile,22,other,False,moderate,confused
+V94,56.45,13.55,burn,semi-mobile,10,female,True,moderate,alert
+V95,20.41,14.04,minor cut,semi-mobile,81,male,True,severe,alert
+V96,96.44,84.92,fracture,immobile,69,female,False,moderate,alert
+V97,44.57,84.15,head trauma,immobile,78,female,True,moderate,unconscious
+V98,51.24,20.51,minor cut,semi-mobile,76,male,True,severe,confused
+V99,57.18,92.37,internal bleeding,mobile,36,other,False,severe,unconscious
+V100,42.76,6.93,internal bleeding,immobile,56,female,False,severe,confused
+V101,54.09,34.39,head trauma,mobile,84,female,True,moderate,confused
+V102,74.2,82.93,burn,semi-mobile,52,female,True,severe,alert
+V103,0.5,75.87,fracture,semi-mobile,40,male,False,moderate,alert
+V104,97.0,68.53,fracture,immobile,27,male,True,moderate,unconscious
+V105,76.27,78.97,head trauma,semi-mobile,45,female,False,moderate,alert
+V106,56.01,51.82,fracture,semi-mobile,35,male,True,moderate,alert
+V107,44.78,16.83,fracture,mobile,21,female,False,none,alert
+V108,78.73,25.35,head trauma,semi-mobile,55,other,False,moderate,alert
+V109,19.37,9.91,burn,immobile,63,male,True,severe,confused
+V110,18.93,35.93,head trauma,semi-mobile,30,other,False,low,unconscious
+V111,66.09,66.46,burn,immobile,45,other,True,moderate,alert
+V112,20.77,57.82,internal bleeding,immobile,17,other,True,severe,confused
+V113,98.3,8.59,fracture,mobile,69,other,False,moderate,confused
+V114,5.2,23.42,head trauma,immobile,75,male,True,none,alert
+V115,55.22,47.15,head trauma,mobile,82,male,True,severe,confused
+V116,27.23,0.72,fracture,immobile,74,male,False,moderate,confused
+V117,16.45,17.84,internal bleeding,semi-mobile,18,female,True,moderate,alert
+V118,24.81,6.31,fracture,immobile,36,female,True,moderate,confused
+V119,23.84,45.13,burn,mobile,83,other,False,none,confused
+V120,53.52,62.0,minor cut,immobile,10,male,True,moderate,alert
+V121,39.33,44.16,minor cut,semi-mobile,47,other,True,low,confused
+V122,81.56,55.24,minor cut,immobile,11,female,False,moderate,alert
+V123,31.14,46.88,burn,semi-mobile,10,other,False,moderate,alert
+V124,65.74,92.22,minor cut,mobile,67,female,False,low,unconscious
+V125,64.49,59.7,minor cut,mobile,81,female,False,low,alert
+V126,83.76,77.44,fracture,mobile,70,male,False,moderate,alert
+V127,63.98,57.34,internal bleeding,immobile,30,female,False,low,confused
+V128,71.58,80.62,fracture,semi-mobile,85,male,False,low,alert
+V129,29.84,9.35,burn,mobile,75,other,True,severe,unconscious
+V130,49.92,96.16,burn,mobile,14,female,False,none,confused
+V131,2.17,32.79,internal bleeding,immobile,16,male,True,moderate,alert
+V132,74.31,27.66,head trauma,semi-mobile,49,male,False,moderate,alert
+V133,95.22,12.65,minor cut,semi-mobile,39,female,False,moderate,alert
+V134,69.74,88.9,fracture,mobile,73,other,True,low,alert
+V135,73.66,70.71,minor cut,semi-mobile,25,female,True,severe,unconscious
+V136,56.71,74.71,head trauma,semi-mobile,47,male,True,low,confused
+V137,80.62,22.38,internal bleeding,mobile,70,other,False,moderate,confused
+V138,74.04,93.75,burn,semi-mobile,81,male,False,low,confused
+V139,27.69,1.22,head trauma,mobile,43,other,False,none,confused
+V140,77.88,66.52,minor cut,immobile,19,female,False,moderate,confused
+V141,70.77,0.85,fracture,immobile,63,male,True,severe,alert
+V142,32.24,79.26,burn,immobile,24,female,False,severe,alert
+V143,51.55,77.21,internal bleeding,mobile,22,other,False,moderate,confused
+V144,23.96,46.21,head trauma,semi-mobile,70,other,False,low,alert
+V145,11.53,94.6,fracture,mobile,72,male,True,severe,alert
+V146,18.73,51.84,burn,semi-mobile,16,male,True,low,alert
+V147,49.6,11.42,minor cut,immobile,22,other,False,moderate,alert
+V148,55.53,55.36,burn,immobile,80,female,False,moderate,alert
+V149,17.45,43.6,minor cut,semi-mobile,12,male,False,moderate,unconscious
+V150,48.92,99.39,fracture,mobile,23,other,False,severe,alert
+V151,63.36,58.03,internal bleeding,semi-mobile,43,other,True,moderate,confused
+V152,32.34,61.24,minor cut,semi-mobile,60,other,True,moderate,confused
+V153,1.78,38.4,internal bleeding,immobile,44,male,False,low,confused
+V154,48.56,0.3,fracture,mobile,14,other,False,none,alert
+V155,2.3,48.08,head trauma,mobile,19,male,True,severe,alert
+V156,63.16,75.13,fracture,semi-mobile,79,other,True,severe,unconscious
+V157,77.47,10.07,internal bleeding,semi-mobile,35,male,True,low,alert
+V158,61.43,11.59,fracture,immobile,47,female,True,severe,alert
+V159,50.98,59.42,internal bleeding,immobile,59,female,False,low,alert
+V160,71.11,8.68,internal bleeding,semi-mobile,44,male,True,moderate,confused
+V161,78.09,12.85,fracture,mobile,82,male,False,severe,confused
+V162,78.03,5.86,fracture,semi-mobile,59,female,True,moderate,confused
+V163,69.24,20.07,head trauma,mobile,21,male,False,severe,alert
+V164,33.5,14.26,burn,semi-mobile,79,female,True,severe,unconscious
+V165,82.39,90.84,head trauma,mobile,28,female,False,none,alert
+V166,91.39,76.43,minor cut,mobile,13,other,True,low,confused
+V167,65.56,71.94,burn,mobile,10,male,True,severe,confused
+V168,92.86,76.28,internal bleeding,immobile,73,female,True,none,alert
+V169,58.49,28.35,head trauma,semi-mobile,67,other,False,severe,alert
+V170,37.22,69.35,internal bleeding,immobile,64,female,True,low,confused
+V171,66.67,53.0,minor cut,immobile,63,male,True,none,unconscious
+V172,94.15,70.02,fracture,mobile,51,female,True,moderate,alert
+V173,99.83,78.37,burn,mobile,27,female,True,low,confused
+V174,61.46,34.88,burn,mobile,20,female,True,moderate,unconscious
+V175,42.35,89.91,fracture,mobile,29,female,True,severe,alert
+V176,8.99,4.74,fracture,semi-mobile,75,female,True,severe,unconscious
+V177,9.79,74.41,burn,mobile,55,other,True,moderate,unconscious
+V178,19.13,54.33,minor cut,mobile,53,female,True,moderate,alert
+V179,65.5,78.6,head trauma,semi-mobile,14,female,True,none,unconscious
+V180,75.38,88.07,burn,semi-mobile,28,female,True,severe,alert
+V181,72.18,13.48,internal bleeding,semi-mobile,16,male,True,severe,alert
+V182,54.31,28.57,minor cut,immobile,38,other,False,moderate,alert
+V183,81.78,38.24,minor cut,immobile,61,male,False,moderate,unconscious
+V184,88.44,75.07,minor cut,mobile,30,male,False,low,alert
+V185,20.53,66.78,minor cut,semi-mobile,5,female,False,moderate,alert
+V186,42.19,61.72,burn,semi-mobile,52,other,True,low,confused
+V187,69.02,17.47,burn,mobile,60,female,False,low,alert
+V188,14.77,40.07,minor cut,immobile,43,other,True,low,confused
+V189,42.78,76.42,head trauma,semi-mobile,78,female,False,moderate,alert
+V190,23.06,68.02,fracture,semi-mobile,81,male,False,severe,alert
+V191,24.82,44.07,minor cut,immobile,30,male,False,severe,unconscious
+V192,41.53,84.02,internal bleeding,semi-mobile,67,other,False,severe,alert
+V193,83.39,56.47,fracture,semi-mobile,25,female,True,moderate,alert
+V194,95.66,8.93,internal bleeding,semi-mobile,71,female,True,moderate,unconscious
+V195,50.18,97.62,internal bleeding,semi-mobile,41,female,True,moderate,confused
+V196,95.63,82.03,minor cut,mobile,78,female,False,moderate,alert
+V197,13.31,65.74,fracture,mobile,23,male,False,severe,alert
+V198,92.64,6.5,fracture,mobile,30,female,True,severe,alert
+V199,83.06,41.14,head trauma,immobile,79,male,True,none,unconscious
+V200,28.46,71.15,head trauma,semi-mobile,43,other,False,severe,alert
+V201,48.84,80.86,fracture,immobile,82,other,False,moderate,alert
+V202,65.09,67.22,fracture,immobile,70,female,False,moderate,alert
+V203,1.27,69.6,head trauma,semi-mobile,63,female,True,none,alert
+V204,6.44,15.0,internal bleeding,immobile,32,male,True,severe,confused
+V205,9.61,70.9,burn,mobile,38,other,False,severe,alert
+V206,88.3,66.92,minor cut,immobile,18,female,True,moderate,alert
+V207,20.82,4.55,fracture,immobile,13,female,True,severe,unconscious
+V208,46.7,84.74,fracture,mobile,52,male,False,low,alert
+V209,60.69,94.51,minor cut,immobile,14,male,True,moderate,alert
+V210,94.04,27.06,fracture,mobile,34,female,True,severe,alert
+V211,82.28,64.27,minor cut,immobile,21,male,True,severe,alert
+V212,8.89,33.74,internal bleeding,immobile,42,other,True,severe,alert
+V213,65.29,20.51,internal bleeding,mobile,67,male,False,severe,alert
+V214,67.06,76.8,fracture,immobile,70,male,False,severe,confused
+V215,86.05,47.81,minor cut,mobile,12,male,False,none,alert
+V216,19.53,42.7,minor cut,mobile,23,male,False,low,alert
+V217,81.01,88.01,internal bleeding,semi-mobile,35,other,True,severe,unconscious
+V218,82.83,3.61,minor cut,semi-mobile,14,other,False,low,alert
+V219,14.37,47.18,minor cut,mobile,56,other,True,severe,alert
+V220,77.92,81.82,internal bleeding,semi-mobile,60,male,True,severe,unconscious
+V221,34.21,71.87,fracture,mobile,70,female,True,moderate,alert
+V222,82.27,78.37,fracture,immobile,40,other,False,severe,unconscious
+V223,33.23,6.85,minor cut,semi-mobile,43,male,False,severe,alert
+V224,89.33,9.15,fracture,immobile,79,male,True,moderate,alert
+V225,35.59,43.19,head trauma,semi-mobile,78,female,True,moderate,confused
+V226,3.39,95.34,fracture,mobile,70,female,True,severe,unconscious
+V227,96.19,46.56,head trauma,semi-mobile,22,male,True,severe,confused
+V228,92.71,67.46,burn,semi-mobile,20,other,False,moderate,confused
+V229,40.5,69.1,burn,mobile,25,other,True,none,confused
+V230,57.18,11.92,burn,semi-mobile,9,male,True,low,confused
+V231,3.23,65.73,burn,immobile,37,other,True,moderate,confused
+V232,77.69,57.55,internal bleeding,mobile,48,male,False,low,unconscious
+V233,40.29,42.13,fracture,semi-mobile,72,other,False,severe,alert
+V234,88.17,86.77,minor cut,mobile,85,male,False,severe,alert
+V235,58.22,76.01,head trauma,semi-mobile,81,other,False,severe,confused
+V236,10.14,16.11,burn,mobile,40,female,False,low,alert
+V237,16.94,98.46,burn,semi-mobile,70,other,True,severe,confused
+V238,39.31,92.66,minor cut,semi-mobile,20,male,False,severe,alert
+V239,61.52,26.56,fracture,semi-mobile,74,other,True,moderate,alert
+V240,38.35,88.17,head trauma,mobile,10,female,False,none,unconscious
+V241,74.78,14.78,head trauma,mobile,49,male,False,none,alert
+V242,88.81,21.88,minor cut,semi-mobile,57,female,True,severe,alert
+V243,82.97,36.08,fracture,immobile,64,female,True,none,unconscious
+V244,2.24,71.23,fracture,immobile,16,other,True,moderate,alert
+V245,18.66,68.77,internal bleeding,mobile,6,female,False,severe,confused
+V246,46.04,29.85,head trauma,mobile,9,female,True,low,confused
+V247,84.1,2.86,head trauma,semi-mobile,50,other,False,low,alert
+V248,59.34,3.57,burn,semi-mobile,45,female,False,severe,confused
+V249,39.49,33.17,internal bleeding,mobile,59,female,True,moderate,confused
+V250,17.73,20.27,fracture,immobile,83,male,True,moderate,alert
+V251,46.31,46.27,fracture,immobile,64,other,False,severe,confused
+V252,11.8,64.61,burn,semi-mobile,14,other,True,severe,alert
+V253,12.19,18.41,minor cut,immobile,85,female,True,low,unconscious
+V254,98.35,75.53,minor cut,semi-mobile,74,female,False,none,unconscious
+V255,13.79,65.72,internal bleeding,semi-mobile,40,male,False,low,alert
+V256,16.11,54.41,head trauma,immobile,14,other,True,moderate,alert
+V257,2.8,93.05,burn,mobile,46,male,False,none,unconscious
+V258,0.55,81.24,head trauma,semi-mobile,29,female,False,moderate,unconscious
+V259,84.84,17.29,head trauma,semi-mobile,63,female,True,moderate,alert
+V260,66.23,18.86,burn,semi-mobile,52,other,True,moderate,alert
+V261,12.91,2.55,minor cut,mobile,18,male,True,none,unconscious
+V262,90.24,38.53,fracture,semi-mobile,66,male,False,low,confused
+V263,23.42,58.33,burn,immobile,35,other,True,low,confused
+V264,13.71,93.32,minor cut,semi-mobile,82,male,False,moderate,unconscious
+V265,20.91,94.04,internal bleeding,semi-mobile,22,male,False,severe,alert
+V266,97.84,39.9,minor cut,mobile,61,other,True,low,alert
+V267,83.66,79.55,fracture,semi-mobile,83,male,True,severe,alert
+V268,98.46,61.93,internal bleeding,immobile,9,male,False,moderate,unconscious
+V269,92.45,28.43,internal bleeding,immobile,44,male,True,moderate,alert
+V270,15.33,21.58,head trauma,immobile,18,other,True,severe,confused
+V271,85.25,50.46,minor cut,immobile,81,other,False,low,confused
+V272,49.12,41.59,fracture,semi-mobile,66,male,True,severe,confused
+V273,73.11,65.8,head trauma,semi-mobile,25,female,False,severe,confused
+V274,30.57,35.86,minor cut,semi-mobile,79,other,False,severe,confused
+V275,20.12,29.47,burn,semi-mobile,6,male,False,severe,confused
+V276,87.88,77.06,fracture,semi-mobile,11,female,False,low,alert
+V277,46.51,10.11,burn,semi-mobile,37,other,False,moderate,alert
+V278,3.69,88.01,internal bleeding,semi-mobile,21,other,False,severe,confused
+V279,80.55,6.16,fracture,immobile,8,other,True,moderate,confused
+V280,84.54,18.81,minor cut,mobile,38,female,False,none,confused
+V281,7.2,76.96,internal bleeding,semi-mobile,12,female,False,severe,unconscious
+V282,54.47,27.28,minor cut,mobile,40,female,False,severe,alert
+V283,80.82,52.79,fracture,semi-mobile,36,other,False,moderate,unconscious
+V284,33.26,56.7,internal bleeding,mobile,22,other,True,moderate,unconscious
+V285,9.92,31.36,internal bleeding,immobile,29,other,False,severe,alert
+V286,81.92,54.91,burn,semi-mobile,11,male,False,severe,confused
+V287,49.43,90.01,minor cut,immobile,57,female,True,severe,alert
+V288,59.69,69.77,minor cut,semi-mobile,25,other,True,low,unconscious
+V289,65.87,24.06,head trauma,immobile,6,female,False,none,alert
+V290,47.76,40.39,minor cut,mobile,57,other,False,moderate,alert
+V291,99.42,7.69,fracture,immobile,29,female,True,moderate,alert
+V292,30.93,54.98,internal bleeding,immobile,30,male,False,low,unconscious
+V293,55.99,35.02,burn,immobile,56,female,False,severe,unconscious
+V294,43.52,43.41,fracture,mobile,47,female,False,moderate,unconscious
+V295,22.58,8.47,fracture,semi-mobile,54,other,True,moderate,unconscious
+V296,90.1,9.75,head trauma,immobile,27,male,False,moderate,alert
+V297,30.72,77.08,minor cut,immobile,25,other,True,severe,alert
+V298,92.46,57.05,internal bleeding,semi-mobile,47,other,False,moderate,alert
+V299,54.41,64.91,head trauma,mobile,63,other,False,severe,confused
+V300,68.2,48.47,fracture,semi-mobile,34,other,False,none,alert
+V301,23.05,5.94,head trauma,semi-mobile,44,female,True,moderate,unconscious
+V302,64.38,38.01,head trauma,mobile,7,female,True,none,alert
+V303,91.77,47.01,internal bleeding,semi-mobile,27,other,False,low,confused
+V304,38.81,41.33,minor cut,mobile,53,female,False,severe,unconscious
+V305,35.46,20.87,minor cut,mobile,60,male,True,severe,confused
+V306,43.83,17.95,internal bleeding,immobile,81,male,True,severe,confused
+V307,43.16,52.16,head trauma,immobile,36,male,False,low,confused
+V308,79.72,79.83,head trauma,semi-mobile,47,male,True,moderate,unconscious
+V309,3.0,25.66,fracture,immobile,6,male,False,low,alert
+V310,65.49,19.24,burn,semi-mobile,77,male,True,severe,unconscious
+V311,0.31,48.82,head trauma,semi-mobile,82,other,True,low,confused
+V312,99.21,49.33,internal bleeding,mobile,71,female,True,none,alert
+V313,2.57,74.21,internal bleeding,semi-mobile,78,female,False,severe,unconscious
+V314,1.73,88.79,head trauma,semi-mobile,13,male,False,low,unconscious
+V315,94.35,16.5,head trauma,immobile,29,other,True,low,alert
+V316,13.79,21.75,fracture,semi-mobile,77,male,False,moderate,alert
+V317,78.29,47.3,head trauma,mobile,69,male,False,severe,unconscious
+V318,15.12,82.39,internal bleeding,mobile,54,other,False,moderate,alert
+V319,58.33,55.72,burn,semi-mobile,38,other,False,moderate,confused
+V320,55.34,86.8,head trauma,immobile,36,male,True,moderate,confused
+V321,9.74,35.73,fracture,semi-mobile,31,female,False,low,unconscious
+V322,75.42,45.62,internal bleeding,semi-mobile,27,other,False,severe,alert
+V323,31.14,51.62,internal bleeding,semi-mobile,53,male,True,severe,unconscious
+V324,19.06,35.7,internal bleeding,semi-mobile,25,female,True,moderate,alert
+V325,53.62,21.29,burn,mobile,61,male,False,moderate,unconscious
+V326,84.42,87.86,minor cut,mobile,51,male,True,severe,alert
+V327,88.19,41.87,fracture,semi-mobile,14,female,True,severe,confused
+V328,75.92,91.76,internal bleeding,semi-mobile,44,female,True,severe,alert
+V329,81.14,69.87,fracture,semi-mobile,47,male,False,low,alert
+V330,76.21,46.23,minor cut,immobile,54,male,True,severe,confused
+V331,5.08,37.61,internal bleeding,semi-mobile,49,male,False,moderate,confused
+V332,95.42,0.18,burn,semi-mobile,84,female,True,severe,unconscious
+V333,14.88,55.08,head trauma,semi-mobile,10,female,True,none,alert
+V334,42.52,46.32,head trauma,mobile,84,male,True,moderate,alert
+V335,78.55,98.65,head trauma,semi-mobile,30,other,False,severe,confused
+V336,92.09,40.86,fracture,semi-mobile,47,other,False,none,confused
+V337,99.69,10.6,burn,immobile,75,male,True,severe,alert
+V338,65.22,20.83,minor cut,mobile,46,other,True,severe,alert
+V339,29.1,85.69,fracture,semi-mobile,50,other,False,low,alert
+V340,16.34,57.94,internal bleeding,semi-mobile,66,male,False,moderate,unconscious
+V341,61.86,64.52,burn,mobile,16,male,True,severe,confused
+V342,50.44,4.92,fracture,immobile,59,other,False,none,alert
+V343,12.86,42.91,internal bleeding,mobile,10,other,False,moderate,confused
+V344,0.05,58.95,internal bleeding,mobile,83,other,False,severe,confused
+V345,21.26,77.02,fracture,mobile,46,female,False,severe,alert
+V346,30.01,6.92,fracture,semi-mobile,76,female,False,low,confused
+V347,58.81,56.43,minor cut,immobile,56,other,False,severe,alert
+V348,50.78,9.98,internal bleeding,semi-mobile,66,other,True,none,alert
+V349,39.22,59.79,burn,semi-mobile,50,other,False,severe,confused
+V350,46.65,75.41,head trauma,semi-mobile,14,male,True,low,unconscious
+V351,23.58,11.56,burn,mobile,25,female,True,moderate,confused
+V352,71.18,88.63,burn,mobile,83,other,True,severe,confused
+V353,91.6,84.6,burn,semi-mobile,14,other,True,moderate,alert
+V354,53.91,83.97,internal bleeding,semi-mobile,5,other,False,moderate,confused
+V355,49.02,10.18,internal bleeding,semi-mobile,13,female,True,severe,alert
+V356,61.94,98.6,head trauma,semi-mobile,50,male,True,moderate,confused
+V357,58.84,3.08,minor cut,immobile,46,female,False,moderate,confused
+V358,52.87,47.17,head trauma,immobile,5,other,False,low,alert
+V359,45.75,55.87,burn,immobile,85,other,True,severe,unconscious
+V360,95.24,19.71,fracture,semi-mobile,57,male,True,none,alert
+V361,16.23,51.95,burn,immobile,30,male,False,low,confused
+V362,60.22,2.53,head trauma,semi-mobile,66,male,True,low,alert
+V363,18.1,83.73,burn,immobile,18,female,True,severe,alert
+V364,8.76,38.02,internal bleeding,semi-mobile,69,female,False,low,confused
+V365,30.28,53.32,burn,mobile,50,male,True,severe,alert
+V366,42.35,35.26,minor cut,semi-mobile,58,male,False,moderate,alert
+V367,72.59,93.82,burn,immobile,76,female,False,none,confused
+V368,53.98,86.85,head trauma,semi-mobile,34,female,False,moderate,unconscious
+V369,43.38,66.78,head trauma,immobile,5,female,False,moderate,unconscious
+V370,69.51,22.84,minor cut,mobile,27,other,False,severe,alert
+V371,84.57,51.72,internal bleeding,immobile,84,female,True,severe,alert
+V372,71.79,68.8,burn,immobile,51,female,True,low,alert
+V373,48.05,60.15,internal bleeding,immobile,54,male,False,severe,alert
+V374,84.18,73.06,internal bleeding,mobile,69,other,False,severe,unconscious
+V375,43.34,85.06,burn,semi-mobile,83,other,True,severe,confused
+V376,19.44,71.97,internal bleeding,mobile,17,male,True,moderate,unconscious
+V377,61.87,78.41,minor cut,semi-mobile,44,male,True,severe,unconscious
+V378,31.6,32.25,minor cut,immobile,51,other,False,severe,confused
+V379,74.27,21.21,head trauma,mobile,60,other,True,none,alert
+V380,49.08,78.75,burn,mobile,5,female,False,moderate,alert
+V381,76.37,4.08,burn,semi-mobile,6,female,False,low,alert
+V382,56.16,38.46,minor cut,semi-mobile,69,male,False,moderate,confused
+V383,2.16,52.59,fracture,mobile,26,female,True,moderate,confused
+V384,35.0,27.71,burn,mobile,39,male,True,none,alert
+V385,80.02,95.09,head trauma,mobile,73,other,False,severe,unconscious
+V386,35.48,67.98,minor cut,semi-mobile,5,other,True,moderate,confused
+V387,39.22,91.41,burn,mobile,60,female,False,moderate,confused
+V388,79.41,26.3,internal bleeding,semi-mobile,64,other,False,moderate,alert
+V389,88.12,74.46,minor cut,semi-mobile,62,male,True,moderate,confused
+V390,57.18,70.41,fracture,semi-mobile,52,female,False,severe,confused
+V391,50.74,80.64,fracture,semi-mobile,22,other,True,moderate,unconscious
+V392,95.79,81.02,fracture,immobile,41,other,True,severe,unconscious
+V393,87.44,42.76,internal bleeding,mobile,37,male,True,moderate,alert
+V394,64.56,62.58,burn,immobile,78,male,True,none,unconscious
+V395,96.68,45.22,burn,mobile,30,female,True,none,alert
+V396,93.86,50.28,minor cut,immobile,42,male,False,severe,confused
+V397,73.56,13.13,internal bleeding,semi-mobile,15,male,True,moderate,alert
+V398,39.27,79.53,fracture,semi-mobile,75,male,True,low,alert
+V399,14.36,52.48,internal bleeding,mobile,56,other,True,moderate,alert
+V400,70.8,92.71,burn,semi-mobile,43,female,True,moderate,confused
+V401,20.04,50.33,minor cut,semi-mobile,7,female,True,severe,confused
+V402,48.12,54.1,fracture,mobile,13,other,True,low,confused
+V403,55.49,76.78,minor cut,mobile,25,male,True,severe,alert
+V404,13.24,33.53,fracture,mobile,54,female,True,moderate,confused
+V405,24.31,70.0,fracture,immobile,8,other,False,moderate,alert
+V406,42.47,85.24,fracture,semi-mobile,45,male,False,none,alert
+V407,57.06,0.66,minor cut,mobile,23,other,True,none,alert
+V408,82.77,95.3,head trauma,mobile,48,other,False,moderate,alert
+V409,50.3,51.99,burn,semi-mobile,62,male,True,severe,confused
+V410,83.53,35.14,head trauma,immobile,51,female,True,severe,alert
+V411,35.47,95.07,burn,immobile,55,female,True,severe,confused
+V412,40.52,19.27,internal bleeding,immobile,27,other,True,severe,confused
+V413,71.92,47.93,minor cut,semi-mobile,7,male,False,low,confused
+V414,70.19,83.01,minor cut,semi-mobile,5,male,False,low,alert
+V415,49.05,44.96,internal bleeding,mobile,44,male,False,low,alert
+V416,71.47,6.59,internal bleeding,mobile,8,male,False,low,confused
+V417,43.24,50.08,internal bleeding,semi-mobile,73,male,True,none,confused
+V418,79.48,11.51,minor cut,mobile,5,male,True,moderate,unconscious
+V419,44.25,9.93,burn,semi-mobile,18,male,False,moderate,confused
+V420,42.28,30.99,minor cut,immobile,50,other,True,none,confused
+V421,43.55,14.44,fracture,semi-mobile,49,other,False,moderate,unconscious
+V422,25.59,10.12,minor cut,semi-mobile,43,female,True,severe,alert
+V423,9.54,92.79,internal bleeding,mobile,83,female,True,low,alert
+V424,4.56,58.84,head trauma,mobile,58,other,False,severe,unconscious
+V425,56.83,96.06,internal bleeding,mobile,40,female,True,none,confused
+V426,5.41,71.76,burn,semi-mobile,8,other,False,moderate,alert
+V427,53.43,12.2,minor cut,semi-mobile,75,male,True,low,alert
+V428,94.5,62.31,internal bleeding,immobile,5,female,False,moderate,confused
+V429,65.6,76.96,burn,semi-mobile,11,other,True,moderate,alert
+V430,0.86,98.06,internal bleeding,semi-mobile,11,male,True,severe,alert
+V431,73.72,3.27,fracture,mobile,33,other,True,moderate,unconscious
+V432,37.81,90.11,minor cut,semi-mobile,64,female,False,moderate,confused
+V433,55.98,36.32,head trauma,semi-mobile,82,male,False,low,alert
+V434,92.89,63.65,fracture,semi-mobile,34,female,False,moderate,confused
+V435,98.41,63.88,burn,semi-mobile,77,male,False,moderate,confused
+V436,35.76,31.36,burn,mobile,19,male,False,moderate,unconscious
+V437,30.45,83.65,head trauma,immobile,85,female,True,low,unconscious
+V438,46.09,76.15,internal bleeding,semi-mobile,16,male,True,none,alert
+V439,69.77,10.86,minor cut,immobile,68,male,False,severe,alert
+V440,15.25,25.13,burn,semi-mobile,73,female,False,severe,alert
+V441,47.51,98.2,internal bleeding,immobile,59,female,True,severe,alert
+V442,99.8,8.02,burn,immobile,55,female,False,low,unconscious
+V443,9.2,8.39,burn,semi-mobile,66,female,False,moderate,alert
+V444,11.97,24.59,minor cut,semi-mobile,72,male,False,moderate,alert
+V445,89.53,14.77,internal bleeding,semi-mobile,53,male,True,moderate,confused
+V446,21.1,87.93,internal bleeding,semi-mobile,54,female,False,none,unconscious
+V447,44.92,45.89,minor cut,mobile,72,other,True,severe,alert
+V448,34.38,81.1,minor cut,semi-mobile,20,other,False,moderate,alert
+V449,17.1,97.7,internal bleeding,immobile,42,male,True,moderate,confused
+V450,92.72,0.62,minor cut,semi-mobile,77,other,True,none,confused
+V451,16.94,82.52,burn,semi-mobile,35,other,True,severe,unconscious
+V452,54.33,89.39,minor cut,semi-mobile,56,other,True,moderate,confused
+V453,23.33,32.55,fracture,immobile,25,female,False,moderate,unconscious
+V454,31.21,49.07,minor cut,semi-mobile,81,other,True,moderate,confused
+V455,20.52,99.93,minor cut,semi-mobile,73,male,True,severe,alert
+V456,75.25,56.04,burn,immobile,9,male,True,severe,confused
+V457,72.05,27.14,head trauma,semi-mobile,78,male,True,moderate,unconscious
+V458,43.47,4.74,fracture,mobile,64,male,True,none,confused
+V459,85.12,2.66,burn,semi-mobile,18,female,True,none,confused
+V460,98.42,64.62,burn,semi-mobile,33,other,True,moderate,alert
+V461,71.99,74.88,burn,semi-mobile,16,male,False,severe,alert
+V462,74.07,27.72,internal bleeding,semi-mobile,37,female,True,severe,alert
+V463,35.3,47.5,head trauma,semi-mobile,5,female,True,moderate,alert
+V464,0.37,13.78,head trauma,mobile,15,female,True,moderate,unconscious
+V465,94.63,4.6,burn,mobile,82,other,False,none,alert
+V466,18.12,9.25,internal bleeding,semi-mobile,49,other,True,moderate,alert
+V467,26.32,29.47,internal bleeding,semi-mobile,16,male,False,moderate,unconscious
+V468,24.12,47.8,minor cut,immobile,63,male,True,moderate,alert
+V469,90.67,68.94,internal bleeding,semi-mobile,56,female,True,moderate,alert
+V470,47.12,39.57,head trauma,mobile,57,female,False,severe,alert
+V471,40.04,86.68,internal bleeding,mobile,30,male,False,moderate,confused
+V472,70.15,46.42,internal bleeding,mobile,31,female,False,moderate,alert
+V473,6.33,52.49,fracture,semi-mobile,30,female,False,moderate,alert
+V474,26.32,80.08,head trauma,mobile,59,female,True,moderate,alert
+V475,92.78,73.74,fracture,mobile,43,female,False,none,confused
+V476,11.77,55.73,fracture,semi-mobile,47,male,True,severe,unconscious
+V477,20.33,62.21,internal bleeding,mobile,85,other,True,none,unconscious
+V478,19.97,93.31,minor cut,immobile,29,other,True,low,alert
+V479,61.95,58.35,minor cut,semi-mobile,22,other,True,low,unconscious
+V480,45.66,97.73,burn,semi-mobile,29,male,False,low,alert
+V481,55.69,44.07,internal bleeding,semi-mobile,47,female,False,moderate,confused
+V482,58.91,30.83,minor cut,semi-mobile,9,male,True,moderate,alert
+V483,91.44,54.67,fracture,semi-mobile,49,male,True,moderate,confused
+V484,39.64,54.83,fracture,immobile,64,female,False,severe,alert
+V485,49.47,51.38,head trauma,mobile,19,female,False,severe,confused
+V486,27.25,57.62,minor cut,mobile,80,other,True,moderate,alert
+V487,93.63,0.6,fracture,semi-mobile,83,female,False,none,confused
+V488,44.16,61.82,internal bleeding,mobile,10,male,True,none,unconscious
+V489,52.61,29.54,minor cut,mobile,44,other,False,moderate,alert
+V490,70.19,41.29,head trauma,semi-mobile,76,male,True,severe,confused
+V491,84.5,55.28,head trauma,mobile,12,female,True,low,confused
+V492,13.4,6.14,burn,mobile,55,other,False,low,alert
+V493,62.1,92.88,burn,immobile,22,female,False,moderate,confused
+V494,7.64,8.5,fracture,mobile,56,male,False,moderate,unconscious
+V495,17.13,88.24,internal bleeding,mobile,26,male,True,severe,unconscious
+V496,42.16,33.81,burn,immobile,32,male,True,low,confused
+V497,73.51,89.51,fracture,mobile,10,female,True,low,confused
+V498,57.58,87.7,minor cut,semi-mobile,61,other,False,moderate,confused
+V499,16.21,19.36,internal bleeding,mobile,62,female,True,severe,alert
+V500,63.13,95.99,fracture,semi-mobile,65,female,False,low,confused
