@@ -110,7 +110,7 @@ def run_training(seed):
 
         for step in range(STEPS_PER_EPISODE):
             obs_tensor = torch.tensor(obs.reshape(num_agents, -1), dtype=torch.float32, device=device)
-            actions, values, log_probs = actor_critic.act(obs_tensor)
+            actions, values, log_probs, _ = actor_critic.act(obs_tensor)
 
             logits = actor_critic.actor_head(actor_critic.shared(obs_tensor))
             probs = torch.softmax(logits, dim=-1)
