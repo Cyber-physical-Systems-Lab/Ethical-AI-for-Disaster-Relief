@@ -146,14 +146,9 @@ def run_training(seed):
 
         pd.DataFrame(step_logs_all).to_csv(os.path.join(run_path, f"episode_{episode+1}.csv"), index=False)
 
-        # 🔍 Evaluate ethical alignment
-        # if (episode + 1) % 50 == 0:
-        #     alignment = evaluate_alignment(env, actor_critic, device)
-        #     print(f"[Eval] Episode {episode + 1} | Ethical Alignment Rate: {alignment:.2f}%")
-
-        # ✅ Early stop if converged
+        # Early stop if converged
         if has_converged(episode_rewards):
-            print(f"✅ Converged at episode {episode + 1} with avg reward ~ {avg_reward:.2f}")
+            print(f"Converged at episode {episode + 1} with avg reward ~ {avg_reward:.2f}")
             break
 
     # Save model and logs
@@ -206,4 +201,4 @@ plt.grid(True)
 plt.savefig(os.path.join(LOGS_PATH, "combined_plot.png"))
 plt.close()
 
-print("\n✅ All seed runs completed and logged.")
+print("\nAll seed runs completed and logged.")
