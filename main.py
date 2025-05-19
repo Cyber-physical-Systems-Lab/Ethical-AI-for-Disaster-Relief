@@ -13,7 +13,7 @@ from mappo.utils import compute_gae
 
 # ---------------------------- Config ----------------------------
 NUM_EPISODES = 1000
-STEPS_PER_EPISODE = 20
+STEPS_PER_EPISODE = 100
 GAMMA = 0.99
 LAMBDA = 0.95
 LR = 5e-4
